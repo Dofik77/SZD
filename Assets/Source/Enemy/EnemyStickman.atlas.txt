@@ -1,0 +1,536 @@
+
+EnemyStickman.png
+size: 2027,1864
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clothes/civ1-arm-l-1
+  rotate: true
+  xy: 253, 2
+  size: 174, 249
+  orig: 176, 251
+  offset: 1, 1
+  index: -1
+clothes/civ1-arm-r-1
+  rotate: true
+  xy: 2, 3
+  size: 172, 249
+  orig: 174, 252
+  offset: 1, 2
+  index: -1
+clothes/civ1-body
+  rotate: false
+  xy: 2, 537
+  size: 170, 541
+  orig: 172, 543
+  offset: 1, 1
+  index: -1
+clothes/civ1-leg-l-1
+  rotate: true
+  xy: 346, 541
+  size: 178, 340
+  orig: 180, 342
+  offset: 1, 1
+  index: -1
+clothes/civ1-leg-l-2
+  rotate: false
+  xy: 244, 178
+  size: 113, 357
+  orig: 116, 359
+  offset: 1, 1
+  index: -1
+clothes/civ1-leg-r-1
+  rotate: false
+  xy: 666, 783
+  size: 120, 352
+  orig: 123, 355
+  offset: 1, 2
+  index: -1
+clothes/civ1-leg-r-2
+  rotate: false
+  xy: 461, 791
+  size: 203, 344
+  orig: 205, 346
+  offset: 1, 1
+  index: -1
+clothes/civ2-arm-l-1
+  rotate: true
+  xy: 1700, 1346
+  size: 174, 249
+  orig: 176, 251
+  offset: 1, 1
+  index: -1
+clothes/civ2-arm-l-2
+  rotate: true
+  xy: 1884, 1533
+  size: 329, 141
+  orig: 331, 144
+  offset: 1, 2
+  index: -1
+clothes/civ2-arm-r-1
+  rotate: true
+  xy: 1417, 740
+  size: 172, 250
+  orig: 174, 252
+  offset: 1, 1
+  index: -1
+clothes/civ2-arm-r-2
+  rotate: true
+  xy: 1678, 1181
+  size: 163, 323
+  orig: 165, 325
+  offset: 1, 1
+  index: -1
+clothes/civ2-body
+  rotate: true
+  xy: 798, 1692
+  size: 170, 541
+  orig: 172, 543
+  offset: 1, 1
+  index: -1
+clothes/civ2-leg-l-1
+  rotate: true
+  xy: 504, 15
+  size: 178, 340
+  orig: 180, 342
+  offset: 1, 1
+  index: -1
+clothes/civ2-leg-l-2
+  rotate: false
+  xy: 346, 721
+  size: 113, 357
+  orig: 116, 359
+  offset: 1, 1
+  index: -1
+clothes/civ2-leg-r-1
+  rotate: false
+  xy: 993, 846
+  size: 120, 352
+  orig: 123, 355
+  offset: 1, 2
+  index: -1
+clothes/civ2-leg-r-2
+  rotate: true
+  xy: 761, 1200
+  size: 203, 344
+  orig: 205, 346
+  offset: 1, 1
+  index: -1
+clothes/civ3-arm-l-1
+  rotate: false
+  xy: 788, 603
+  size: 174, 249
+  orig: 176, 251
+  offset: 1, 1
+  index: -1
+clothes/civ3-arm-r-1
+  rotate: true
+  xy: 1415, 390
+  size: 172, 249
+  orig: 174, 252
+  offset: 1, 2
+  index: -1
+clothes/civ3-body
+  rotate: false
+  xy: 174, 537
+  size: 170, 541
+  orig: 172, 543
+  offset: 1, 1
+  index: -1
+clothes/civ3-leg-l-1
+  rotate: false
+  xy: 1157, 1178
+  size: 178, 340
+  orig: 180, 342
+  offset: 1, 1
+  index: -1
+clothes/civ3-leg-l-2
+  rotate: true
+  xy: 798, 1405
+  size: 113, 357
+  orig: 116, 359
+  offset: 1, 1
+  index: -1
+clothes/civ3-leg-r-1
+  rotate: false
+  xy: 1295, 824
+  size: 120, 352
+  orig: 123, 355
+  offset: 1, 2
+  index: -1
+clothes/doc-arm-l-1
+  rotate: true
+  xy: 1415, 564
+  size: 174, 249
+  orig: 176, 251
+  offset: 1, 1
+  index: -1
+clothes/doc-arm-l-2
+  rotate: true
+  xy: 964, 515
+  size: 329, 141
+  orig: 331, 144
+  offset: 1, 2
+  index: -1
+clothes/doc-arm-r-1
+  rotate: true
+  xy: 1399, 216
+  size: 172, 250
+  orig: 174, 252
+  offset: 1, 1
+  index: -1
+clothes/doc-arm-r-2
+  rotate: false
+  xy: 769, 278
+  size: 163, 323
+  orig: 165, 325
+  offset: 1, 1
+  index: -1
+clothes/doc-body
+  rotate: true
+  xy: 798, 1520
+  size: 170, 541
+  orig: 172, 543
+  offset: 1, 1
+  index: -1
+clothes/doc-eye
+  rotate: true
+  xy: 1902, 121
+  size: 102, 96
+  orig: 104, 98
+  offset: 1, 1
+  index: -1
+clothes/doc-head
+  rotate: false
+  xy: 414, 1137
+  size: 345, 343
+  orig: 348, 346
+  offset: 1, 1
+  index: -1
+clothes/doc-helmet
+  rotate: true
+  xy: 2, 177
+  size: 358, 240
+  orig: 360, 242
+  offset: 1, 1
+  index: -1
+clothes/doc-leg-l-1
+  rotate: false
+  xy: 1115, 836
+  size: 178, 340
+  orig: 180, 342
+  offset: 1, 1
+  index: -1
+clothes/doc-leg-l-2
+  rotate: true
+  xy: 1341, 1407
+  size: 113, 357
+  orig: 116, 359
+  offset: 1, 1
+  index: -1
+clothes/doc-leg-r-1
+  rotate: true
+  xy: 1672, 879
+  size: 120, 352
+  orig: 123, 355
+  offset: 1, 2
+  index: -1
+clothes/doc-leg-r-2
+  rotate: false
+  xy: 788, 854
+  size: 203, 344
+  orig: 205, 346
+  offset: 1, 1
+  index: -1
+clothes/eye2
+  rotate: false
+  xy: 1902, 34
+  size: 99, 85
+  orig: 102, 87
+  offset: 2, 1
+  index: -1
+clothes/eye3
+  rotate: true
+  xy: 688, 665
+  size: 116, 98
+  orig: 118, 100
+  offset: 1, 1
+  index: -1
+clothes/helmet 1
+  rotate: false
+  xy: 2, 1472
+  size: 410, 390
+  orig: 412, 393
+  offset: 1, 2
+  index: -1
+clothes/helmet 2
+  rotate: false
+  xy: 2, 1080
+  size: 410, 390
+  orig: 412, 393
+  offset: 1, 2
+  index: -1
+clothes/helmet 3
+  rotate: false
+  xy: 414, 1482
+  size: 382, 380
+  orig: 385, 382
+  offset: 2, 1
+  index: -1
+clothes/helmet glass
+  rotate: true
+  xy: 1417, 914
+  size: 286, 253
+  orig: 288, 255
+  offset: 1, 1
+  index: -1
+clothes/military-arm-l-1
+  rotate: true
+  xy: 846, 14
+  size: 174, 249
+  orig: 176, 251
+  offset: 1, 1
+  index: -1
+clothes/military-arm-l-2
+  rotate: true
+  xy: 1272, 493
+  size: 329, 141
+  orig: 331, 144
+  offset: 1, 2
+  index: -1
+clothes/military-arm-r-1
+  rotate: true
+  xy: 1097, 6
+  size: 172, 249
+  orig: 174, 252
+  offset: 1, 2
+  index: -1
+clothes/military-arm-r-2
+  rotate: false
+  xy: 1107, 511
+  size: 163, 323
+  orig: 165, 325
+  offset: 1, 1
+  index: -1
+clothes/military-body
+  rotate: true
+  xy: 1341, 1693
+  size: 169, 541
+  orig: 172, 543
+  offset: 1, 1
+  index: -1
+clothes/military-leg-l-1
+  rotate: true
+  xy: 1672, 1001
+  size: 178, 340
+  orig: 180, 342
+  offset: 1, 1
+  index: -1
+clothes/military-leg-l-2
+  rotate: true
+  xy: 1666, 462
+  size: 113, 357
+  orig: 116, 359
+  offset: 1, 1
+  index: -1
+clothes/military-leg-r-1
+  rotate: true
+  xy: 1666, 577
+  size: 120, 352
+  orig: 123, 355
+  offset: 1, 2
+  index: -1
+clothes/military-leg-r-2
+  rotate: false
+  xy: 359, 195
+  size: 203, 344
+  orig: 205, 346
+  offset: 1, 1
+  index: -1
+clothes/plate-arm
+  rotate: false
+  xy: 1242, 215
+  size: 155, 276
+  orig: 157, 278
+  offset: 1, 1
+  index: -1
+clothes/police-arm-l-1
+  rotate: true
+  xy: 1651, 49
+  size: 174, 249
+  orig: 176, 251
+  offset: 1, 1
+  index: -1
+clothes/police-arm-l-2
+  rotate: true
+  xy: 1099, 180
+  size: 329, 141
+  orig: 331, 144
+  offset: 1, 2
+  index: -1
+clothes/police-arm-r-1
+  rotate: true
+  xy: 1399, 42
+  size: 172, 249
+  orig: 174, 252
+  offset: 1, 2
+  index: -1
+clothes/police-arm-r-2
+  rotate: false
+  xy: 934, 190
+  size: 163, 323
+  orig: 165, 325
+  offset: 1, 1
+  index: -1
+clothes/police-body
+  rotate: true
+  xy: 1341, 1522
+  size: 169, 541
+  orig: 172, 543
+  offset: 1, 1
+  index: -1
+clothes/police-leg-l-1
+  rotate: true
+  xy: 1669, 699
+  size: 178, 340
+  orig: 180, 342
+  offset: 1, 1
+  index: -1
+clothes/police-leg-l-2
+  rotate: true
+  xy: 1666, 347
+  size: 113, 357
+  orig: 116, 359
+  offset: 1, 1
+  index: -1
+clothes/police-leg-r-1
+  rotate: true
+  xy: 1651, 225
+  size: 120, 352
+  orig: 123, 355
+  offset: 1, 2
+  index: -1
+clothes/police-leg-r-2
+  rotate: false
+  xy: 564, 195
+  size: 203, 344
+  orig: 205, 346
+  offset: 1, 1
+  index: -1
+clothes/vest
+  rotate: true
+  xy: 1337, 1202
+  size: 203, 339
+  orig: 205, 341
+  offset: 1, 1
+  index: -1
+
+EnemyStickman2.png
+size: 642,1051
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flesh/arm-l-1
+  rotate: true
+  xy: 2, 2
+  size: 174, 249
+  orig: 176, 251
+  offset: 1, 1
+  index: -1
+flesh/arm-l-2
+  rotate: false
+  xy: 167, 178
+  size: 329, 141
+  orig: 331, 144
+  offset: 1, 2
+  index: -1
+flesh/arm-r-1
+  rotate: true
+  xy: 253, 4
+  size: 172, 249
+  orig: 174, 252
+  offset: 1, 2
+  index: -1
+flesh/arm-r-2
+  rotate: false
+  xy: 2, 183
+  size: 163, 323
+  orig: 165, 325
+  offset: 1, 1
+  index: -1
+flesh/body
+  rotate: false
+  xy: 2, 508
+  size: 169, 541
+  orig: 172, 543
+  offset: 1, 1
+  index: -1
+flesh/eye1
+  rotate: true
+  xy: 498, 212
+  size: 107, 103
+  orig: 109, 105
+  offset: 1, 1
+  index: -1
+flesh/head
+  rotate: false
+  xy: 173, 706
+  size: 345, 343
+  orig: 348, 346
+  offset: 1, 1
+  index: -1
+flesh/leg-l-1
+  rotate: true
+  xy: 167, 321
+  size: 178, 340
+  orig: 180, 342
+  offset: 1, 1
+  index: -1
+flesh/leg-l-2
+  rotate: false
+  xy: 519, 338
+  size: 113, 357
+  orig: 116, 359
+  offset: 1, 1
+  index: -1
+flesh/leg-r-1
+  rotate: false
+  xy: 520, 697
+  size: 120, 352
+  orig: 123, 355
+  offset: 1, 2
+  index: -1
+flesh/leg-r-2
+  rotate: true
+  xy: 173, 501
+  size: 203, 344
+  orig: 205, 346
+  offset: 1, 1
+  index: -1
+
+EnemyStickman3.png
+size: 449,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skeleton/bone
+  rotate: false
+  xy: 324, 201
+  size: 82, 211
+  orig: 84, 213
+  offset: 1, 1
+  index: -1
+skeleton/skull
+  rotate: false
+  xy: 2, 101
+  size: 320, 311
+  orig: 323, 313
+  offset: 2, 1
+  index: -1
+skeleton/spine
+  rotate: true
+  xy: 2, 2
+  size: 97, 445
+  orig: 99, 447
+  offset: 1, 1
+  index: -1

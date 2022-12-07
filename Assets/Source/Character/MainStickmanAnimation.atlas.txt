@@ -1,0 +1,355 @@
+
+MainStickmanAnimation.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l-1
+  rotate: false
+  xy: 1842, 1403
+  size: 174, 249
+  orig: 176, 251
+  offset: 1, 1
+  index: -1
+arm-l-2
+  rotate: false
+  xy: 779, 1520
+  size: 329, 141
+  orig: 331, 144
+  offset: 1, 2
+  index: -1
+arm-r-1
+  rotate: false
+  xy: 545, 1191
+  size: 172, 249
+  orig: 174, 252
+  offset: 1, 2
+  index: -1
+arm-r-2
+  rotate: true
+  xy: 740, 1355
+  size: 163, 323
+  orig: 165, 325
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 1271
+  size: 169, 541
+  orig: 172, 543
+  offset: 1, 1
+  index: -1
+eye
+  rotate: true
+  xy: 1918, 1701
+  size: 151, 118
+  orig: 153, 120
+  offset: 1, 1
+  index: -1
+leg-l-1
+  rotate: true
+  xy: 719, 1175
+  size: 178, 340
+  orig: 180, 342
+  offset: 1, 1
+  index: -1
+leg-l-2
+  rotate: true
+  xy: 1559, 1739
+  size: 113, 357
+  orig: 116, 359
+  offset: 1, 1
+  index: -1
+leg-r-1
+  rotate: true
+  xy: 784, 1663
+  size: 120, 352
+  orig: 123, 355
+  offset: 1, 2
+  index: -1
+leg-r-2
+  rotate: true
+  xy: 1450, 1135
+  size: 203, 344
+  orig: 205, 346
+  offset: 1, 1
+  index: -1
+pistol1
+  rotate: true
+  xy: 1796, 970
+  size: 368, 244
+  orig: 370, 246
+  offset: 1, 1
+  index: -1
+pistol2
+  rotate: false
+  xy: 775, 471
+  size: 381, 277
+  orig: 383, 279
+  offset: 1, 1
+  index: -1
+pistol3
+  rotate: false
+  xy: 1165, 651
+  size: 378, 256
+  orig: 380, 258
+  offset: 1, 1
+  index: -1
+pistol4
+  rotate: false
+  xy: 1174, 909
+  size: 381, 224
+  orig: 383, 226
+  offset: 1, 1
+  index: -1
+pistol5
+  rotate: false
+  xy: 2, 1051
+  size: 378, 218
+  orig: 380, 220
+  offset: 1, 1
+  index: -1
+pistol6
+  rotate: false
+  xy: 1061, 1150
+  size: 387, 188
+  orig: 389, 190
+  offset: 1, 1
+  index: -1
+pistol7
+  rotate: false
+  xy: 1557, 720
+  size: 388, 248
+  orig: 390, 250
+  offset: 1, 1
+  index: -1
+pistol8
+  rotate: false
+  xy: 1636, 138
+  size: 384, 301
+  orig: 386, 303
+  offset: 1, 1
+  index: -1
+pistol9
+  rotate: false
+  xy: 2, 809
+  size: 375, 240
+  orig: 377, 242
+  offset: 1, 1
+  index: -1
+rifle10
+  rotate: false
+  xy: 791, 2
+  size: 774, 230
+  orig: 776, 232
+  offset: 1, 1
+  index: -1
+rifle12
+  rotate: false
+  xy: 1158, 441
+  size: 761, 208
+  orig: 763, 210
+  offset: 1, 1
+  index: -1
+rifle5
+  rotate: false
+  xy: 2, 20
+  size: 787, 212
+  orig: 789, 214
+  offset: 1, 1
+  index: -1
+rifle6
+  rotate: false
+  xy: 1065, 1340
+  size: 761, 160
+  orig: 763, 162
+  offset: 1, 1
+  index: -1
+rifle7
+  rotate: false
+  xy: 2, 547
+  size: 771, 201
+  orig: 773, 203
+  offset: 1, 1
+  index: -1
+rifle8
+  rotate: false
+  xy: 382, 950
+  size: 790, 198
+  orig: 792, 200
+  offset: 1, 1
+  index: -1
+rifle9
+  rotate: false
+  xy: 379, 750
+  size: 784, 198
+  orig: 786, 200
+  offset: 1, 1
+  index: -1
+sword10
+  rotate: true
+  xy: 1110, 1502
+  size: 150, 730
+  orig: 152, 732
+  offset: 1, 1
+  index: -1
+sword12
+  rotate: true
+  xy: 2, 1598
+  size: 116, 775
+  orig: 118, 777
+  offset: 1, 1
+  index: -1
+sword14
+  rotate: true
+  xy: 2, 323
+  size: 222, 726
+  orig: 224, 728
+  offset: 1, 1
+  index: -1
+sword3
+  rotate: true
+  xy: 773, 1785
+  size: 67, 784
+  orig: 69, 788
+  offset: 1, 1
+  index: -1
+sword4
+  rotate: true
+  xy: 2, 1786
+  size: 66, 769
+  orig: 69, 773
+  offset: 1, 1
+  index: -1
+sword5
+  rotate: true
+  xy: 2, 1716
+  size: 67, 780
+  orig: 71, 784
+  offset: 1, 1
+  index: -1
+sword6
+  rotate: true
+  xy: 730, 234
+  size: 205, 904
+  orig: 207, 906
+  offset: 1, 1
+  index: -1
+sword7
+  rotate: true
+  xy: 1138, 1654
+  size: 83, 774
+  orig: 85, 776
+  offset: 1, 1
+  index: -1
+sword8
+  rotate: true
+  xy: 2, 1442
+  size: 154, 736
+  orig: 156, 738
+  offset: 1, 1
+  index: -1
+
+MainStickmanAnimation2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: false
+  xy: 1589, 1416
+  size: 345, 343
+  orig: 348, 346
+  offset: 1, 1
+  index: -1
+launcher1
+  rotate: false
+  xy: 2, 18
+  size: 765, 336
+  orig: 767, 338
+  offset: 1, 1
+  index: -1
+launcher2
+  rotate: false
+  xy: 766, 962
+  size: 987, 284
+  orig: 989, 286
+  offset: 1, 1
+  index: -1
+rifle1
+  rotate: true
+  xy: 1542, 301
+  size: 659, 365
+  orig: 661, 367
+  offset: 1, 1
+  index: -1
+rifle11
+  rotate: false
+  xy: 747, 675
+  size: 793, 285
+  orig: 795, 287
+  offset: 1, 1
+  index: -1
+rifle13
+  rotate: false
+  xy: 2, 983
+  size: 762, 288
+  orig: 764, 290
+  offset: 1, 1
+  index: -1
+rifle2
+  rotate: false
+  xy: 791, 1248
+  size: 784, 256
+  orig: 786, 258
+  offset: 1, 1
+  index: -1
+rifle3
+  rotate: false
+  xy: 810, 1506
+  size: 777, 253
+  orig: 779, 255
+  offset: 1, 1
+  index: -1
+rifle4
+  rotate: false
+  xy: 2, 1528
+  size: 806, 231
+  orig: 808, 233
+  offset: 1, 1
+  index: -1
+sword1
+  rotate: true
+  xy: 2, 356
+  size: 317, 778
+  orig: 319, 780
+  offset: 1, 1
+  index: -1
+sword11
+  rotate: true
+  xy: 782, 340
+  size: 333, 753
+  orig: 335, 755
+  offset: 1, 1
+  index: -1
+sword13
+  rotate: true
+  xy: 2, 680
+  size: 301, 743
+  orig: 303, 745
+  offset: 1, 1
+  index: -1
+sword2
+  rotate: true
+  xy: 2, 1273
+  size: 253, 787
+  orig: 255, 789
+  offset: 1, 1
+  index: -1
+sword9
+  rotate: true
+  xy: 769, 2
+  size: 336, 660
+  orig: 338, 662
+  offset: 1, 1
+  index: -1

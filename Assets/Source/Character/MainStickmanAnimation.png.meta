@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: 2420faf18001b5b4eb6422ff92763d94
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainStickmanAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1816
+        width: 787
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5addabf9cc36c04a83336ff4ae5918a
+      internalID: -2007561258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1816
+        width: 774
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c03042285666654a8045f4f575526ce
+      internalID: -1192458497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1609
+        width: 384
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573e4eaf0e384ab4ea627b8af96f36a2
+      internalID: -939944504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1503
+        width: 726
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028fa096b34bd784a80ee238474c5c71
+      internalID: 1062869797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1609
+        width: 904
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c19dc141a540e04280224a06e43225b
+      internalID: -482511488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1300
+        width: 771
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df4cc4c9a88b774aa869ad951cf6ff0
+      internalID: 176740899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1300
+        width: 381
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cff4e93a88592940bff1aa61c78d0f9
+      internalID: -911152907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1399
+        width: 761
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6206742082a518f44ba02e882a631d1f
+      internalID: 523432912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 999
+        width: 375
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f037ef29614aa1e4588dca1a73b3405c
+      internalID: -81510285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1100
+        width: 784
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e9ac283bc39524e841d3b28f868555
+      internalID: 1838583006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1141
+        width: 378
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49caea58b67d4b446b60c9f453be4fac
+      internalID: -2017659484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1080
+        width: 388
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d305336ed79b0449c80add23b1482e
+      internalID: 1448717215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 779
+        width: 378
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27415177411be74cba618a350a1ecad
+      internalID: 277003213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 900
+        width: 790
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4f217bf0626cd49b8850eddcbf58c6
+      internalID: 8102298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 915
+        width: 381
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7fdc5ab36cd9f42820d4ee7aa45ec7
+      internalID: -1893707504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 710
+        width: 244
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d1aa611ef89546a1cbd0b14f94ea7
+      internalID: 992601516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 608
+        width: 541
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fec77598a7f7d46855552dfe8b5713
+      internalID: -1133816863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 608
+        width: 172
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a24c930ac7b74f8ecb25a078ad1ff
+      internalID: -763631544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 695
+        width: 340
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4827a5eeaf6f547994815db43ce5ae
+      internalID: 1531586201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 710
+        width: 387
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4bd6ac33826b4fb11dfea452e7944
+      internalID: -1969694952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 710
+        width: 344
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58d01523f7191e469689b09a84f7435
+      internalID: -452460978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 452
+        width: 736
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be7550132bf1443add75d2915889ba
+      internalID: 801225841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 530
+        width: 323
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c3388488e1dc40b2bbbc8ad07e84b
+      internalID: -1463365234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 548
+        width: 761
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd18f1ff1019ac40873972bbbebc3d5
+      internalID: 1022834607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 396
+        width: 174
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740af6c6311d88f4d901b196ad3a59e7
+      internalID: -556966613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 334
+        width: 775
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ae5fcdc65fd349b831ea89e222a52
+      internalID: -804663007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 387
+        width: 329
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371bf3a58982f8945a041a943880d5d9
+      internalID: 1605543405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 396
+        width: 730
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7465e981c2b1804f861563930322e93
+      internalID: 52821627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 265
+        width: 780
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016778e409d9f0a419aa7987145e5633
+      internalID: -1832822436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 265
+        width: 352
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692f5ab955f6af45879baaff646ba4e
+      internalID: 102555701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 311
+        width: 774
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a00d52d26e130498aa6293ff313c5a
+      internalID: 1006765340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 196
+        width: 118
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7de3469ec449840929361cca0acaea
+      internalID: -209723049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 769
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7ff2024a90394dbc668743580878d
+      internalID: 145459988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 196
+        width: 784
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085e8962759847f46ae0e245fb0771ad
+      internalID: -1429752234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainStickmanAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 196
+        width: 357
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60efa429493b9b649b8d21575f444b11
+      internalID: -591481894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainStickmanAnimation_32: 145459988
+      MainStickmanAnimation_17: -763631544
+      MainStickmanAnimation_31: -209723049
+      MainStickmanAnimation_30: 1006765340
+      MainStickmanAnimation_6: -911152907
+      MainStickmanAnimation_12: 277003213
+      MainStickmanAnimation_5: 176740899
+      MainStickmanAnimation_20: -452460978
+      MainStickmanAnimation_22: -1463365234
+      MainStickmanAnimation_13: 8102298
+      MainStickmanAnimation_3: 1062869797
+      MainStickmanAnimation_18: 1531586201
+      MainStickmanAnimation_2: -939944504
+      MainStickmanAnimation_16: -1133816863
+      MainStickmanAnimation_0: -2007561258
+      MainStickmanAnimation_15: 992601516
+      MainStickmanAnimation_8: -81510285
+      MainStickmanAnimation_23: 1022834607
+      MainStickmanAnimation_25: -804663007
+      MainStickmanAnimation_26: 1605543405
+      MainStickmanAnimation_4: -482511488
+      MainStickmanAnimation_24: -556966613
+      MainStickmanAnimation_27: 52821627
+      MainStickmanAnimation_19: -1969694952
+      MainStickmanAnimation_33: -1429752234
+      MainStickmanAnimation_7: 523432912
+      MainStickmanAnimation_29: 102555701
+      MainStickmanAnimation_1: -1192458497
+      MainStickmanAnimation_9: 1838583006
+      MainStickmanAnimation_21: 801225841
+      MainStickmanAnimation_34: -591481894
+      MainStickmanAnimation_10: -2017659484
+      MainStickmanAnimation_14: -1893707504
+      MainStickmanAnimation_11: 1448717215
+      MainStickmanAnimation_28: -1832822436
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

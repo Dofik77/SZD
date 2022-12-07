@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dbc71dc1a0a452e92079b27ae05c5bc, type: 3}
+  m_Name: SamplePistol
+  m_EditorClassIdentifier: 
+  <Value>k__BackingField:
+    <ConfigProvider>k__BackingField:
+      rid: 5911913646089830400
+    <WeaponConfigProvider>k__BackingField: {fileID: 11400000, guid: 3cbb9cc4dc68fe04b893f4483d689dcb, type: 2}
+    <RecoilAngle>k__BackingField: 5
+    <GraphicSettings>k__BackingField:
+      _reloadingAnimation: {fileID: -7729797558709532553, guid: 126ab440057a5ea499b3b82a9d815824, type: 2}
+      <SkinName>k__BackingField: Weapons/Pistols-OneHanded
+      <WeaponBone>k__BackingField: pistols-l
+      <AttachmentName>k__BackingField: pistol1
+      <Type>k__BackingField: 0
+      SightOffset: {x: 0.34, y: 0.08, z: 0}
+    <Icon>k__BackingField: {fileID: 0}
+    <Category>k__BackingField: 
+    UsingType:
+      GuidAssignmentFailed: 0
+      GUID: 23b493fb16e447a5973bc47245ebc928
+      _typeNameAndAssembly: RedRockStudio.SZD.Character.FirearmSingleShooting, Assembly-CSharp
+      _suppressLogs: 0
+    ReloadingType:
+      GuidAssignmentFailed: 0
+      GUID: c7bf9d256b1b4ce8bbbe34abb90ec7a9
+      _typeNameAndAssembly: RedRockStudio.SZD.Character.ReloadingState, Assembly-CSharp
+      _suppressLogs: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5911913646089830400
+      type: {class: DataProvider, ns: R1noff.RData, asm: R1noff.RData}
+      data:
+        _data:
+          rid: 5911913646089830401
+    - rid: 5911913646089830401
+      type: {class: WeaponConfig, ns: RedRockStudio.SZD, asm: Assembly-CSharp}
+      data:
+        Name: 
+        Cost: 0
+        Damage: 12
+        AmmoSize: 17
+        FireRatePerMinute: 0
+        ReloadingTime: 2.5
+        Income: 0
+        ArmorDamage: 0
+        DamageDecal: {fileID: 8448839664465148831, guid: 8c51687c48b3e4b419ea1b024995b42e, type: 3}

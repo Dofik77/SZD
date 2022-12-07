@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dbc71dc1a0a452e92079b27ae05c5bc, type: 3}
+  m_Name: SampleRifle
+  m_EditorClassIdentifier: 
+  <Value>k__BackingField:
+    <WeaponConfigProvider>k__BackingField: {fileID: 11400000, guid: 6d60bb1837c951c44be2a6d4d0665394, type: 2}
+    <RecoilAngle>k__BackingField: 5
+    <GraphicSettings>k__BackingField:
+      _reloadingAnimation: {fileID: 5999496203776433043, guid: 126ab440057a5ea499b3b82a9d815824, type: 2}
+      <SkinName>k__BackingField: Weapons/Rifles
+      <WeaponBone>k__BackingField: rifles
+      <AttachmentName>k__BackingField: rifle1
+      <Type>k__BackingField: 2
+      SightOffset: {x: 0.63, y: 0, z: 0}
+    <Icon>k__BackingField: {fileID: 0}
+    <Category>k__BackingField: 
+    UsingType:
+      GuidAssignmentFailed: 0
+      GUID: c7d2cb36ea644273bbb573f5a60a16a4
+      _typeNameAndAssembly: RedRockStudio.SZD.Character.FirearmAutomaticShooting,
+        Assembly-CSharp
+      _suppressLogs: 0
+    ReloadingType:
+      GuidAssignmentFailed: 0
+      GUID: c7bf9d256b1b4ce8bbbe34abb90ec7a9
+      _typeNameAndAssembly: RedRockStudio.SZD.Character.ReloadingState, Assembly-CSharp
+      _suppressLogs: 0

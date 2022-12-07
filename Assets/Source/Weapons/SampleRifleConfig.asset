@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 930b55c325ed43d9b2f450e17b7e92a1, type: 3}
+  m_Name: SampleRifleConfig
+  m_EditorClassIdentifier: 
+  <Value>k__BackingField:
+    Name: 
+    Cost: 0
+    Damage: 2
+    AmmoSize: 25
+    FireRatePerMinute: 3
+    ReloadingTime: 2.5
+    Income: 0
+    ArmorDamage: 0
+    DamageDecal: {fileID: 8448839664465148831, guid: 8c51687c48b3e4b419ea1b024995b42e, type: 3}

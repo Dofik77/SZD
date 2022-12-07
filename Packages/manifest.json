@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+    "com.domybest.mybox": "https://github.com/Deadcows/MyBox.git",
+    "com.github.superunitybuild.buildtool": "https://github.com/superunitybuild/buildtool.git",
+    "com.solidalloy.type-references": "2.16.0",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.ide.rider": "3.0.15",
+    "com.unity.inputsystem": "1.4.2",
+    "com.unity.recorder": "3.0.3",
+    "com.unity.test-framework": "1.1.33",
+    "com.unity.textmeshpro": "3.0.6",
+    "games.corundum.stateless-for-unity": "https://github.com/CorundumGames/Stateless-For-Unity.git",
+    "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer#1.11.1",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.openupm",
+        "org.nuget",
+        "com.solidalloy"
+      ]
+    }
+  ]
+}

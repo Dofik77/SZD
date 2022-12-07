@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604a7f567184424d87a176265bce4fe4, type: 3}
+  m_Name: Civ1Skin
+  m_EditorClassIdentifier: 
+  <Value>k__BackingField:
+    _data: {fileID: 11400000, guid: 30e72e8055779f2418c5ef72c14a9c1b, type: 2}
+    _attachments:
+    - default/eye/eye1
+    - default/head/head
+    - default/arm-l-1-clothes/civ1-arm-l-1
+    - default/arm-l-2/arm-l-2
+    - default/arm-r-1-clothes/civ1-arm-r-1
+    - default/arm-r-2/arm-r-2
+    - default/leg-l-1-clothes/civ1-leg-l-1
+    - default/leg-l-2-clothes/civ1-leg-l-2
+    - default/body-clothes/civ1-body
+    - default/leg-r-1-clothes/civ1-leg-r-1
+    - default/leg-r-2-clothes/civ1-leg-r-2
+    <DisabledSlots>k__BackingField:
+    - helmet
+    - helmet-glass
+    - vest
+    - arm-r-2-clothes
+    - arm-l-2-clothes
+    - plate-arm-l
+    - plate-arm-r
