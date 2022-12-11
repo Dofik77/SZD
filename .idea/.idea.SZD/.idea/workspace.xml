@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07ed7cc7-a71e-4769-9988-f53ce632ddcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Alpha.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Alpha.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_Alpha_Bundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_Alpha_Bundle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_Overlay_Bundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_Overlay_Bundle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_Solid_Bundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_Solid_Bundle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_Splat_Bundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/P3D_Splat_Bundle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Solid.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Solid.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Splat.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Splat.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit Alpha.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit Alpha.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit Overlay.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit Overlay.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit P3D_Alpha_Bundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit P3D_Alpha_Bundle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit P3D_Overlay_Bundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit P3D_Overlay_Bundle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit P3D_Solid_Bundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit P3D_Solid_Bundle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit P3D_Splat_Bundle.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit P3D_Splat_Bundle.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit Solid.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit Solid.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit Splat.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/CW/PaintIn3D/Extras/Shaders/Unlit Splat.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_Controller.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_MainStickmanAnimation.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_MainStickmanAnimation.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_MainStickmanAnimation2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_MainStickmanAnimation2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_SkeletonData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Character/MainStickmanAnimation_SkeletonData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Code/Behaviours/AttackBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Code/Behaviours/AttackBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/BodyPart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/BodyPart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/DebugBodyPart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/DebugBodyPart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/DetachableBodyPart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/DetachableBodyPart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/DualBodyPart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/DualBodyPart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/IBody.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/IBody.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Enemy/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Enemy/Enemy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Enemy/Enemy.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Enemy/Enemy.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_Controller.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_EnemyStickman.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_EnemyStickman.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_EnemyStickman2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_EnemyStickman2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_EnemyStickman3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_EnemyStickman3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_SkeletonData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Enemy/EnemyStickman_SkeletonData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Dragon/dragon_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Dragon/dragon_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Dragon/dragon_dragon.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Dragon/dragon_dragon.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Dragon/dragon_dragon2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Dragon/dragon_dragon2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Eyes/eyes_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Eyes/eyes_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Eyes/eyes_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Eyes/eyes_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/Equipment/Equipment_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/Equipment/Equipment_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/Equipment/Equipment_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/Equipment/Equipment_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/FS_White_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/FS_White_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/FS_White_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/FootSoldier/FS_White_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Gauge/Gauge_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Gauge/Gauge_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Gauge/Gauge_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Gauge/Gauge_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Goblins/goblins_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Goblins/goblins_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Goblins/goblins_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Goblins/goblins_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Hero/hero-pro_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Hero/hero-pro_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Hero/hero-pro_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Hero/hero-pro_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Raggedy Spineboy/Raggedy Spineboy_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Raggedy Spineboy/Raggedy Spineboy_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Raggedy Spineboy/Raggedy Spineboy_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Raggedy Spineboy/Raggedy Spineboy_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Raptor/raptor_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Raptor/raptor_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Raptor/raptor_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Raptor/raptor_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Spineunitygirl/Doi_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Spineunitygirl/Doi_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Spineunitygirl/Doi_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Spineunitygirl/Doi_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Stretchyman/stretchyman-diffuse-pma_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Stretchyman/stretchyman-diffuse-pma_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Stretchyman/stretchyman-diffuse-pma_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/Stretchyman/stretchyman-diffuse-pma_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/mix-and-match/mix-and-match-pma_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/mix-and-match/mix-and-match-pma_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/mix-and-match/mix-and-match-pma_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/mix-and-match/mix-and-match-pma_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/raptor-pro-and-mask/raptor-pma_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/raptor-pro-and-mask/raptor-pma_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/raptor-pro-and-mask/raptor-pma_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/raptor-pro-and-mask/raptor-pma_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-pro/spineboy-pro_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-pro/spineboy-pro_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-pro/spineboy-pro_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-pro/spineboy-pro_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-unity/spineboy_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-unity/spineboy_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-unity/spineboy_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/spineboy-unity/spineboy_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/whirlyblendmodes/whirlyblendmodes_Atlas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/whirlyblendmodes/whirlyblendmodes_Atlas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/whirlyblendmodes/whirlyblendmodes_Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/whirlyblendmodes/whirlyblendmodes_Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/whirlyblendmodes/whirlyblendmodes_SkeletonData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Spine Examples/Spine Skeletons/whirlyblendmodes/whirlyblendmodes_SkeletonData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F1212AD1-DEC4-4CE7-B714-7976B91869C3/90/c784e160/MovedFromAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Code/Composition/Installers/BodyPartsInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/BodyPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Code/Enemy/Body/Injuries.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ij9v5eEdtvB6Zc1X5wRLAw6ESN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\PC\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\PC\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\PC\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.4f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\PC\Desktop\Projects\SZD -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\PC\Desktop\Projects\SZD" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.4f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\PC\Desktop\Projects\SZD -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\PC\Desktop\Projects\SZD" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ed7cc7-a71e-4769-9988-f53ce632ddcf" name="Default Changelist" comment="" />
+      <created>1670684355372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670684355372</updated>
+      <workItem from="1670684392916" duration="187000" />
+      <workItem from="1670684621627" duration="128000" />
+      <workItem from="1670759815716" duration="340000" />
+      <workItem from="1670760290319" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+</project>
