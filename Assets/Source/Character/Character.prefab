@@ -74,7 +74,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1344839225}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.13, y: 1.08, z: -10}
+  m_LocalPosition: {x: 3.1, y: 1.46, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -108,7 +108,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 1.88
+  orthographic size: 2.66
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -674,9 +674,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _lineRenderer: {fileID: 3519406058190893206}
   _maxDistance: 30
-  _layerMask:
-    serializedVersion: 2
-    m_Bits: 64
   _filter:
     useTriggers: 0
     useLayerMask: 0
@@ -686,7 +683,7 @@ MonoBehaviour:
     useOutsideNormalAngle: 0
     layerMask:
       serializedVersion: 2
-      m_Bits: 64
+      m_Bits: 0
     minDepth: 0
     maxDepth: 0
     minNormalAngle: 0
@@ -1214,13 +1211,13 @@ ParentConstraint:
   m_TranslationAtRest: {x: 0.885, y: 1.266, z: 0}
   m_RotationAtRest: {x: 0, y: 0, z: 1.6400734}
   m_TranslationOffsets:
-  - {x: 0.2325182, y: -0.005868733, z: 0}
-  - {x: 0.23252678, y: -0.005614996, z: 0}
+  - {x: 0.2325182, y: -0.0058687627, z: 0}
+  - {x: 0.23252583, y: -0.005614981, z: 0}
   - {x: 0.23258972, y: 0.001342833, z: 0}
-  - {x: 0.2318573, y: 0.018494785, z: 0}
+  - {x: 0.2318573, y: 0.018494725, z: 0}
   m_RotationOffsets:
-  - {x: 0, y: 0, z: -0.13653918}
-  - {x: 0, y: 0, z: -0.07400828}
+  - {x: 0, y: 0, z: -0.13653916}
+  - {x: 0, y: 0, z: -0.074008286}
   - {x: 0, y: 0, z: 1.6400734}
   - {x: 0, y: 0, z: 5.8699875}
   m_AffectTranslationX: 1
@@ -1546,7 +1543,7 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
+  m_LinearDrag: 1
   m_AngularDrag: 0.05
   m_GravityScale: 0
   m_Material: {fileID: 0}
@@ -1577,9 +1574,6 @@ MonoBehaviour:
   _rigidbody: {fileID: 3519406058824502416}
   _sightConstraint: {fileID: 3519406058190893195}
   _fxPrefab: {fileID: 8774077175955455660, guid: bfc0f1a89ef92324eadcd14d7700e01e, type: 3}
-  _shootingLayerMask:
-    serializedVersion: 2
-    m_Bits: 64
 --- !u!114 &6988868599783117392
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1619,9 +1613,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8446a29fbfea432485e20da35976a495, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _providers:
-  - {fileID: 11400000, guid: e5692028feafc254fb03114a4d155252, type: 2}
-  - {fileID: 11400000, guid: a84c418bac677c846b8a8934f133883c, type: 2}
+  _weaponsData:
+  - rid: 5911913557143846915
+  - rid: 5911913557143846916
+  references:
+    version: 2
+    RefIds:
+    - rid: 5911913557143846915
+      type: {class: UnityObjectProvider, ns: R1noff.RData.UnityObjects, asm: R1noff.RData}
+      data:
+        _object: {fileID: 11400000, guid: 3853133a455380b41b4b3fdc89c5b82d, type: 2}
+    - rid: 5911913557143846916
+      type: {class: UnityObjectProvider, ns: R1noff.RData.UnityObjects, asm: R1noff.RData}
+      data:
+        _object: {fileID: 11400000, guid: 2f974cd8f6967db4cb34851458d1f87d, type: 2}
 --- !u!114 &1868311085
 MonoBehaviour:
   m_ObjectHideFlags: 0
